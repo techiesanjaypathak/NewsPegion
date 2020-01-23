@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		A7D8C34823D971A500109296 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7D8C34723D971A500109296 /* AppDelegate.swift */; };
 		A7D8C34A23D971A500109296 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7D8C34923D971A500109296 /* SceneDelegate.swift */; };
-		A7D8C34C23D971A500109296 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7D8C34B23D971A500109296 /* ViewController.swift */; };
 		A7D8C34F23D971A500109296 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7D8C34D23D971A500109296 /* Main.storyboard */; };
 		A7D8C35123D971A700109296 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7D8C35023D971A700109296 /* Assets.xcassets */; };
 		A7D8C35423D971A700109296 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7D8C35223D971A700109296 /* LaunchScreen.storyboard */; };
@@ -25,7 +24,6 @@
 		A7D8C34423D971A500109296 /* News Pegion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "News Pegion.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7D8C34723D971A500109296 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7D8C34923D971A500109296 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		A7D8C34B23D971A500109296 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A7D8C34E23D971A500109296 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A7D8C35023D971A700109296 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7D8C35323D971A700109296 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -76,7 +74,6 @@
 				A7D8C35B23D9768800109296 /* Controllers */,
 				A7D8C34723D971A500109296 /* AppDelegate.swift */,
 				A7D8C34923D971A500109296 /* SceneDelegate.swift */,
-				A7D8C34B23D971A500109296 /* ViewController.swift */,
 				A7D8C34D23D971A500109296 /* Main.storyboard */,
 				A7D8C35023D971A700109296 /* Assets.xcassets */,
 				A7D8C35223D971A700109296 /* LaunchScreen.storyboard */,
@@ -209,7 +206,6 @@
 				A7D8C36C23D9B00900109296 /* ArticleTableViewCell.swift in Sources */,
 				A7D8C36923D9ABE600109296 /* ArticleViewModel.swift in Sources */,
 				A7D8C35D23D976F400109296 /* NPNewsListTableViewController.swift in Sources */,
-				A7D8C34C23D971A500109296 /* ViewController.swift in Sources */,
 				A7D8C36323D98F5300109296 /* WebService.swift in Sources */,
 				A7D8C34823D971A500109296 /* AppDelegate.swift in Sources */,
 				A7D8C36023D97CB500109296 /* ColorThemes.swift in Sources */,
