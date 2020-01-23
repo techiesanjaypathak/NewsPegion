@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -93,6 +93,7 @@
 		A7D8C33C23D971A500109296 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = NP;
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = Sanjay;
@@ -103,7 +104,7 @@
 				};
 			};
 			buildConfigurationList = A7D8C33F23D971A500109296 /* Build configuration list for PBXProject "NewsPegion" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 11.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
